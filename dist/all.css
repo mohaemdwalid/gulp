@@ -1,0 +1,16 @@
+footer {
+  width: 500px;
+  display: flex;
+  transform: rotate(60deg);
+}
+
+.al {
+  font-size: 52px;
+  color: yellow;
+}
+
+header {
+  color: red;
+}
+
+/*# sourceMappingURL=all.css.map */
